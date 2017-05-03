@@ -91,7 +91,7 @@
       "projects": [
         {
           "name": "Coca-Cola Happy Shopmate Android App",
-          "description": "A backend API that supports the android and ios application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
+          "description": "A reward system mobile application for Android OS. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
           "role": "Android App Developer",
           "startDate": "2017",
           "endDate": "Present",
@@ -104,7 +104,7 @@
       "position": "Mobile App Developer",
       "startDate": "May 2015",
       "endDate": "March 2017",
-      "summary": "Lead the development of mobile applications for Android OS. ",
+      "summary": "Lead the development of mobile applications for Android OS.",
       "projects": [
         {
           "name": "ARIS Mobile App",
