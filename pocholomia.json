@@ -110,8 +110,16 @@
           "name": "ARIS Mobile App",
           "description": "A mobile application for the students of the college to access and transact data regarding to their academics and enrollment.",
           "role": "Android App Developer",
-          "startDate": "2017",
-          "endDate": "Present",
+          "startDate": "2015",
+          "endDate": "2017",
+          "technologies": "Android Studio"
+        },
+        {
+          "name": "RMIS Mobile App",
+          "description": "A mobile application for requesting and approving of requisition items for the departments of the institute/college",
+          "role": "Android App Developer",
+          "startDate": "2016",
+          "endDate": "2017",
           "technologies": "Android Studio"
         }
       ]
