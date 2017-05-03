@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Pocholo F. Mia",
+    "label": "Android App Developer",
+    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
+    "email": "pocholo.mia@flightdigitalmedia.com",
+    "phone": "+639975744775"
+  },
+  "education": [
+    {
+      "institution": "Technological Insitute of the Philippines",
+      "course": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011",
+      "endDate": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies": [
+        {
+          "name": "Java",
+          "number_of_years": 5
+        },
+        {
+          "name": "PHP",
+          "number_of_years": 2
+        },
+        {
+          "name": "Python",
+          "number_of_years": 1
+        },
+        {
+          "name": "Swift",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "technologies": [
+        {
+          "name": "MySql",
+          "number_of_years": 5
+        },
+        {
+          "name": "Oracle",
+          "number_of_years": 2
+        }
+      ]
+    },
+    {
+      "category": "Version Control",
+      "technologies": [
+        {
+          "name": "Git",
+          "number_of_years": 2
+        }
+      ]
+    },
+    {
+      "category": "Integrated Development Environment",
+      "technologies": [
+        {
+          "name": "Android Studio",
+          "number_of_years": 3
+        },
+        {
+          "name": "PHPstorm",
+          "number_of_years": 2
+        },
+        {
+          "name": "PyCharm",
+          "number_of_years": 1
+        },
+        {
+          "name": "XCode",
+          "number_of_years": 1
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Flight Digital Media",
+      "position": "Android App Developer",
+      "startDate": "April 2017",
+      "endDate": "Present",
+      "summary": "Build mobile applications for Android OS.",
+      "projects": [
+        {
+          "name": "Coca-Cola Happy Shopmate Android App",
+          "description": "A backend API that supports the android and ios application reward system app. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
+          "role": "Android App Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "technologies": "Android Studio"
+        }
+      ]
+    },
+    {
+      "company": "Technological Institute of the Philippines",
+      "position": "Mobile App Developer",
+      "startDate": "May 2015",
+      "endDate": "March 2017",
+      "summary": "Lead the development of mobile applications for Android OS. ",
+      "projects": [
+        {
+          "name": "ARIS Mobile App",
+          "description": "A mobile application for the students of the college to access and transact data regarding to their academics and enrollment.",
+          "role": "Android App Developer",
+          "startDate": "2017",
+          "endDate": "Present",
+          "technologies": "Android Studio"
+        }
+      ]
+    }
+  ],
+  "certification": []
+}
