@@ -74,6 +74,22 @@
           "startDate": "2016",
           "endDate": "2017",
           "technologies": "Android Studio"
+        },
+        {
+          "name": "TIP Indoor Navigation App",
+          "description": "A mobile application for indoor navigation inside the campus",
+          "role": "Android App Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "Android Studio"
+        },
+        {
+          "name": "Memo App",
+          "description": "A mobile application for real-time communication on a channel",
+          "role": "Android App Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "Android Studio"
         }
       ]
     }
