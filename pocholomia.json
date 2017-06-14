@@ -45,28 +45,6 @@
           "number_of_years": 2
         }
       ]
-    },
-    {
-      "category": "Version Control",
-      "technologies": [
-        {
-          "name": "Git",
-          "number_of_years": 2
-        }
-      ]
-    },
-    {
-      "category": "Integrated Development Environment",
-      "technologies": [
-        {
-          "name": "Android Studio",
-          "number_of_years": 3
-        },
-        {
-          "name": "PHPstorm",
-          "number_of_years": 2
-        }
-      ]
     }
   ],
   "work": [
