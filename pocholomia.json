@@ -17,7 +17,7 @@
   ],
   "skills": [
     {
-      "category": "Programming Languages",
+      "category": "Core Competencies",
       "technologies": [
         {
           "name": "Java",
@@ -29,19 +29,6 @@
         },
         {
           "name": "PHP",
-          "number_of_years": 2
-        }
-      ]
-    },
-    {
-      "category": "Databases",
-      "technologies": [
-        {
-          "name": "MySql",
-          "number_of_years": 5
-        },
-        {
-          "name": "Oracle",
           "number_of_years": 2
         }
       ]
