@@ -48,6 +48,7 @@
           "role": "Android App Developer",
           "startDate": "April 2017",
           "endDate": "Present",
+          "months": "(2 months)",
           "technologies": "Android Studio"
         }
       ]
@@ -65,6 +66,7 @@
           "role": "Android App Developer",
           "startDate": "2015",
           "endDate": "2017",
+          "months": "21 months",
           "technologies": "Android Studio"
         },
         {
@@ -73,6 +75,7 @@
           "role": "Android App Developer",
           "startDate": "2016",
           "endDate": "2017",
+          "months": "(6 months)",
           "technologies": "Android Studio"
         },
         {
@@ -81,6 +84,7 @@
           "role": "Android App Developer",
           "startDate": "2015",
           "endDate": "2016",
+          "months": "(5 months)",
           "technologies": "Android Studio"
         },
         {
@@ -89,6 +93,7 @@
           "role": "Android App Developer",
           "startDate": "2015",
           "endDate": "2016",
+          "months": "(4 months)",
           "technologies": "Android Studio"
         }
       ]
