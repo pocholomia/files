@@ -24,16 +24,12 @@
           "number_of_years": 5
         },
         {
+          "name": "Android Development",
+          "number_of_years": 4
+        },
+        {
           "name": "PHP",
           "number_of_years": 2
-        },
-        {
-          "name": "Python",
-          "number_of_years": 1
-        },
-        {
-          "name": "Swift",
-          "number_of_years": 1
         }
       ]
     },
@@ -69,14 +65,6 @@
         {
           "name": "PHPstorm",
           "number_of_years": 2
-        },
-        {
-          "name": "PyCharm",
-          "number_of_years": 1
-        },
-        {
-          "name": "XCode",
-          "number_of_years": 1
         }
       ]
     }
@@ -93,7 +81,7 @@
           "name": "Coca-Cola Happy Shopmate Android App",
           "description": "A reward system mobile application for Android OS. This application has bunch of features which includes Coupons, NFC, Qrcode and Beacon detection which allow users to redeem and win instant prizes. ",
           "role": "Android App Developer",
-          "startDate": "2017",
+          "startDate": "April 2017",
           "endDate": "Present",
           "technologies": "Android Studio"
         }
